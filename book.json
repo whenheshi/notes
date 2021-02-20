@@ -1,6 +1,6 @@
 {
     "root": "./",
-    "title": "示例文档",
+    "title": "随笔",
     "logo": "./images/logo.png",
 
     "gitbook": ">= 3.0.0",
@@ -19,7 +19,7 @@
 
     "pluginsConfig": {
         "sitemap-general": {
-            "prefix": "http://zitiao.org/simple/"
+            "prefix": "http://www.monbeeray.cn/"
         }
     }
 }
